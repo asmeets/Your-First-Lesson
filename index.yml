@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: course1
-title: Your First Lesson
+title: Authoring in VSCEDU
 level: beginner
 cardImageUrl: https://vscodeedu.com/content/vlXXWY_P7nBzt0f_J1ZdtXI3fYM9JfPYgx8RzMLEoqc.png
 contacts:

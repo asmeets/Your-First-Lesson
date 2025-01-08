@@ -1,6 +1,9 @@
 # yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lesson1
-title: About this course
-objectives: Understand the course structure and objectives.
+title: Let's Get Started!
 lessonParts:
   - lessonpart1.yml
+  - lessonpart2.yml
+  - lessonpart3.yml
+  - lessonpart4.yml
+  - lessonpart5.yml
