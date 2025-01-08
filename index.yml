@@ -2,26 +2,12 @@
 id: course1
 title: Your First Lesson
 level: beginner
+cardImageUrl: https://vscodeedu.com/content/vlXXWY_P7nBzt0f_J1ZdtXI3fYM9JfPYgx8RzMLEoqc.png
 contacts:
-  - displayName: Adam Smeets
+  - displayName: Visual Studio Code for Education
+    affiliation: Microsoft
+    email: code-edu@microsoft.com
     pictureUrl: https://avatars.githubusercontent.com/u/90738?v=4
-    homePageUrl: https://github.com/asmeets
+    homePageUrl: https://visualstudio.microsoft.com/vscode-edu
 units:
-  - id: unit1
-    title: Introduction
-    objectives: Learn about the course and its objectives.
-    lessons:
-      - id: lesson1
-        title: About this course
-        objectives: Understand the course structure and objectives.
-        lessonParts:
-          - id: lessonpart1
-            title: Welcome to Your First Lesson
-            duration: 5
-            content: |-
-              **Welcome to the course authoring!**
-              You can use Markdown to format your content.
-            showContent: true
-            showEditor: false
-            showTerminal: false
-            showExplorer: false
+  - unit1/index.yml
