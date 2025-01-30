@@ -8,34 +8,25 @@ content: >
   options help you decide how students will engage with your material. Using the
   "Lesson Page Settings" tab, you can set:
 
+   * **Title**: change how this page is labeled in your lesson.
 
-  * **Title**: change how this page is labeled in your lesson.
+   * **Duration (in minutes)**: let learners know how much time they might spend
+   on the page.
 
+   * **Show Content**: toggle whether the page’s text is displayed.
 
-  * **Duration (in minutes)**: let learners know how much time they might spend
-    on the page.
+   * **Show Terminal**: turn on the built‐in terminal so students can run commands
+   or code from the Editor.
 
-  * **Show Content**: toggle whether the page’s text is displayed.
+   * **Show Editor**: allow learners to directly edit a code file you provide.
 
-
-  * **Show Terminal**: turn on the built‐in terminal so students can run
-  commands
-    or code from the Editor.
-
-  * **Show Editor**: allow learners to directly edit a code file you provide.
-
-
-  * **Show Explorer**: give learners access to the file explorer to view and
-    manage lesson files you provide.
-
-  Feel free to experiment with these settings - your changes are immediate, so
-
-  you can see how each option affects the learning experience.&#x20;
+   * **Show Explorer**: give learners access to the file explorer to view and
+   manage lesson files you provide.
 
 
-  As always, if you spot something unexpected or have ideas to improve, please
-
-  click **“Give Feedback”** or visit our Community discussions.
+   Feel free to experiment with these settings - your changes are immediate, so
+   you can see how each option affects the learning experience. As always, if you spot something unexpected or have ideas to improve, please
+   click **“Give Feedback”** or visit our Community discussions.
 showContent: true
 showEditor: false
 showTerminal: false
