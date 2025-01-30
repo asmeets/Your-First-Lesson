@@ -1,6 +1,13 @@
 # yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lesson1
 title: "Tutorial: Welcome to Authoring"
+description: In this lesson, you will learn how to create and customize
+  interactive educational content in VS Code for Education. The lesson covers
+  the essential tools and settings within the authoring environment, enabling
+  you to craft lessons that engage students with hands-on coding, multimedia
+  content, and structured lesson pages. Whether you're developing a new course
+  or enhancing existing content, this guide will help streamline your lesson
+  creation experience.
 lessonParts:
   - lessonpart1.yml
   - lessonpart2.yml
