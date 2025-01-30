@@ -1,7 +1,26 @@
 # yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart1
-title: Introduction
-content: ""
+title: Welcome!
+content: >
+  This lesson template is here to help you get started creating lessons in VS
+  Code for Education.
+
+
+  * This panel is where you’ll find our built‐in WYSIWYG content editor, where
+  you can type, copy/paste, format text, and even embed code snippets or images.
+
+  * To the left of the content editor, you can toggle which parts of the
+  interface learners will have access to - a terminal, a code editor, and file
+  explorer. By default, learners will be able to see your lesson content.
+
+
+  Lesson authoring is currently in Beta, which means we’re actively developing
+  and improving these features. We’d love to hear your thoughts—please click
+  “Give Feedback” or join our Community discussion to share ideas, report
+  issues, and help shape the future of VS Code for Education.
+
+
+  **Happy authoring!**
 showContent: true
 showEditor: false
 showTerminal: false
