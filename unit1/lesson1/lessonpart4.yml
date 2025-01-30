@@ -2,7 +2,8 @@
 id: lessonpart4
 title: Creating code files
 duration: 5
-content: "# Enter your content here"
+content: |
+  Test
 showContent: true
 showEditor: false
 showTerminal: false
