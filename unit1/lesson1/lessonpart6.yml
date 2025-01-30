@@ -1,7 +1,8 @@
 # yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart6
 title: Summary
-content: "# Enter your content here"
+content: |
+  Congrats
 showContent: true
 showEditor: false
 showTerminal: false
