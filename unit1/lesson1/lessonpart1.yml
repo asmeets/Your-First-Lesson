@@ -21,7 +21,7 @@ content: |
 
   ### Ready to Dive In?
 
-  ###### If you already know your way around, feel free to remove this “Let’s get started!” tutorial lesson using the trash can icon in the Table of Contents. We’ve also created a placeholder lesson with the title you provided—just click to begin customizing.
+  ###### If you already know your way around, remove this “Let’s get started!” tutorial lesson using the trash can icon in the Table of Contents. We’ve also created a placeholder lesson with the title you provided—just click to begin customizing.
 showContent: true
 showEditor: false
 showTerminal: false
