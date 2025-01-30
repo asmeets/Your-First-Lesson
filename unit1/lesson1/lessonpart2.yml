@@ -3,32 +3,19 @@ id: lessonpart2
 title: Add a lesson page
 duration: 5
 content: >
-  Each lesson page in VS Code for Education can be tailored to fit your teaching
-  needs. Whether you want to provide a read‐only reference or an interactive
-  coding environment, these options help you decide how students will engage
-  with the material. Using the "Lesson Page Settings" tab, you can set:
+  To get started, your lesson can have as many pages as you need. To add a new one, simply select the + icon next to your lesson title in the Table of Contents in the far left panel (for example, in “Tutorial: Welcome to Authoring”). You'll be asked to provide a title for the lesson page.
 
 
-  * **Title**: Change how this page is labeled in your lesson.
 
-  * **Duration (in minutes)**: Let learners know how much time they might spend
-  here.
+After creating the new page, you can:
 
-  * **Show Content**: Toggle whether the page’s written text is visible.
+Set the Title to help learners navigate your lesson.
 
-  * **Show Terminal**: Turn on a built‐in terminal so students can run commands
-  or code.
+Adjust Page Settings (show or hide Content, Terminal, Editor, and Explorer) to control how students interact with the material.
 
-  * **Show Editor**: Allow learners to directly edit code or text on this page.
+Add Text, Code, or Other Resources in the WYSIWYG editor on the right.
 
-  * **Show Explorer**: Give learners access to the file explorer to view and
-  manage lesson files.
-
-
-  Feel free to experiment with these settings - your changes are immediate, so
-  you can see how each option affects the learning experience. As always, we’re
-  in Beta, so if you spot something unexpected or have ideas to improve, please
-  click **“Give Feedback”** or visit our Community discussions.
+We would love your feedback. If something isn’t working as expected or if you have an idea for improvement, click “Give Feedback” or join our Community discussion.
 showContent: true
 showEditor: false
 showTerminal: false
