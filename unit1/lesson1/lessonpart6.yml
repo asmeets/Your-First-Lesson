@@ -1,8 +1,17 @@
 # yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart6
 title: Summary
-content: |
+content: >
   Congrats
+
+
+  ## Tutorial Feedback
+
+
+  Great job finishing this Authoring tutorial! We hope you enjoyed it. We’d love
+  to hear your thoughts. How did it go for you? After selecting an emoji below,
+  a new browser window will open briefly. You will know that your feedback was
+  recorded when the window automatically closes.
 showContent: true
 showEditor: false
 showTerminal: false
