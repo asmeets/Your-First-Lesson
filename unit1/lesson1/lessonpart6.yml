@@ -2,16 +2,36 @@
 id: lessonpart6
 title: Summary
 content: >
-  Congrats
+  Through this tutorial, you explored how to:
 
 
-  ## Tutorial Feedback
+  * **Add new pages **to a lesson.
+
+  * **Modify lesson page settings **for different teaching scenarios.
+
+  * **Creating or uploading code files** into the File Explorer for hands‐on
+  coding activities.
 
 
-  Great job finishing this Authoring tutorial! We hope you enjoyed it. We’d love
-  to hear your thoughts. How did it go for you? After selecting an emoji below,
-  a new browser window will open briefly. You will know that your feedback was
-  recorded when the window automatically closes.
+  Now you’re ready to build your own lessons and share them with your students!
+
+
+  ### Next Steps
+
+
+  Feel free to remove it by clicking the **trash can** icon in the Table of
+  Contents. This keeps your workspace focused on the content you plan to teach.
+
+
+  Because we’re still in **Beta**, we welcome your suggestions and questions.
+  Simply click **“Give Feedback”** or head to our Community forums to share
+  what’s working well—and what we can make even better.
+
+
+  **Thanks for exploring VS Code for Education—happy coding and teaching!**
+
+
+  &#x20;
 showContent: true
 showEditor: false
 showTerminal: false
