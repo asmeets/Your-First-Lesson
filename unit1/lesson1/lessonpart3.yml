@@ -25,7 +25,9 @@ content: >
 
 
    Feel free to experiment with these settings - your changes are immediate, so
-   you can see how each option affects the learning experience. As always, if you spot something unexpected or have ideas to improve, please
+   you can see how each option affects the learning experience. 
+   
+   As always, if you spot something unexpected or have ideas to improve, please
    click **“Give Feedback”** or visit our Community discussions.
 showContent: true
 showEditor: false
