@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart5
-title: Add content to a lesson page
+title: Summary
 content: "# Enter your content here"
 showContent: true
 showEditor: false
