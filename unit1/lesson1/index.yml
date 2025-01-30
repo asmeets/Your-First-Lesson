@@ -3,4 +3,5 @@ id: lesson1
 title: "Tutorial: Welcome to Authoring"
 lessonParts:
   - lessonpart1.yml
-  - lessonpart5.yml
+  - lessonpart2.yml
+  - lessonpart3.yml
