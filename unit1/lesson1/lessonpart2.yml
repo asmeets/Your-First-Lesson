@@ -2,7 +2,33 @@
 id: lessonpart2
 title: Modifying page settings
 duration: 5
-content: "# Enter your content here"
+content: >
+  Each lesson page in VS Code for Education can be tailored to fit your teaching
+  needs. Whether you want to provide a read‐only reference or an interactive
+  coding environment, these options help you decide how students will engage
+  with the material. Using the "Lesson Page Settings" tab, you can set:
+
+
+  * **Title**: Change how this page is labeled in your lesson.
+
+  * **Duration (in minutes)**: Let learners know how much time they might spend
+  here.
+
+  * **Show Content**: Toggle whether the page’s written text is visible.
+
+  * **Show Terminal**: Turn on a built‐in terminal so students can run commands
+  or code.
+
+  * **Show Editor**: Allow learners to directly edit code or text on this page.
+
+  * **Show Explorer**: Give learners access to the file explorer to view and
+  manage lesson files.
+
+
+  Feel free to experiment with these settings - your changes are immediate, so
+  you can see how each option affects the learning experience. As always, we’re
+  in Beta, so if you spot something unexpected or have ideas to improve, please
+  click **“Give Feedback”** or visit our Community discussions.
 showContent: true
 showEditor: false
 showTerminal: false
