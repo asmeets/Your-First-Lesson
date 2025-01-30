@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart2
-title: Modifying page settings
+title: Adding lesson pages
 duration: 5
 content: >
   Each lesson page in VS Code for Education can be tailored to fit your teaching
